@@ -51,7 +51,7 @@ If Sunshine is working:
 
 - Moonlight routes audio to whatever macOS has selected as the default output device
 - **BlackHole 2ch (Virtual)** must NOT be the default output — it is a virtual routing device; audio sent to it produces no sound
-- Default output should be set to `Mac mini Speakers (Built-in)` or whichever physical device you are listening through
+- Default output should be set to `LG SMART WQHD (HDMI)` (confirmed working) or whichever physical device you are listening through
 - Check System Settings → Sound → Output if audio is ever silent again
 
 ## Related Audit Notes
