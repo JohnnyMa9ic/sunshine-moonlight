@@ -1,0 +1,5 @@
+Replace this file contents with a fresh timestamp when Victus is idle and ready for the next Mac retry.
+
+Example:
+
+ready 2026-04-18T10:15:00-05:00
