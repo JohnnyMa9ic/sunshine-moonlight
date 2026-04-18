@@ -1,0 +1,500 @@
+[2026-04-18 09:41:07.640]: Debug: METHOD :: GET
+[2026-04-18 09:41:07.640]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:07.640]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:07.640]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:07.640]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:07.640]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:07.641]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:07.641]: Debug:  [--] 
+[2026-04-18 09:41:07.641]: Debug: uuid -- 105eadd5e4c341878badf1debdb352bc
+[2026-04-18 09:41:07.641]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:07.641]: Debug:  [--] 
+[2026-04-18 09:41:07.659]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:07.662]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:07.662]: Debug: METHOD :: GET
+[2026-04-18 09:41:07.662]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:07.662]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:07.662]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:07.662]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:07.662]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:07.662]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:07.663]: Debug:  [--] 
+[2026-04-18 09:41:07.663]: Debug: uuid -- 7473875e8a894766a7191ecfc3d9929b
+[2026-04-18 09:41:07.663]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:07.663]: Debug:  [--] 
+[2026-04-18 09:41:10.807]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:10.807]: Debug: METHOD :: GET
+[2026-04-18 09:41:10.807]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:10.807]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:10.807]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:10.808]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:10.808]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:10.808]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:10.808]: Debug:  [--] 
+[2026-04-18 09:41:10.808]: Debug: uuid -- a714253be37b4e8f96b1f2a0a017bcd6
+[2026-04-18 09:41:10.808]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:10.808]: Debug:  [--] 
+[2026-04-18 09:41:10.827]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:10.830]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:10.830]: Debug: METHOD :: GET
+[2026-04-18 09:41:10.830]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:10.830]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:10.830]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:10.830]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:10.830]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:10.831]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:10.831]: Debug:  [--] 
+[2026-04-18 09:41:10.831]: Debug: uuid -- 42eebb9f438548cfb64d1129ba19d918
+[2026-04-18 09:41:10.831]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:10.831]: Debug:  [--] 
+[2026-04-18 09:41:13.963]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:13.963]: Debug: METHOD :: GET
+[2026-04-18 09:41:13.963]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:13.964]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:13.964]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:13.964]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:13.964]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:13.964]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:13.964]: Debug:  [--] 
+[2026-04-18 09:41:13.964]: Debug: uuid -- f47949d207f8482c8fedb342aa786cd0
+[2026-04-18 09:41:13.964]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:13.964]: Debug:  [--] 
+[2026-04-18 09:41:13.979]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:13.982]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:13.982]: Debug: METHOD :: GET
+[2026-04-18 09:41:13.982]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:13.983]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:13.983]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:13.983]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:13.983]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:13.983]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:13.983]: Debug:  [--] 
+[2026-04-18 09:41:13.983]: Debug: uuid -- d1c8e9a5dde649848480da07e2132fe1
+[2026-04-18 09:41:13.983]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:13.983]: Debug:  [--] 
+[2026-04-18 09:41:17.130]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:17.130]: Debug: METHOD :: GET
+[2026-04-18 09:41:17.131]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:17.131]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:17.131]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:17.131]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:17.131]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:17.131]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:17.131]: Debug:  [--] 
+[2026-04-18 09:41:17.131]: Debug: uuid -- cdac4688820740b9a49d321f025f6f93
+[2026-04-18 09:41:17.131]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:17.131]: Debug:  [--] 
+[2026-04-18 09:41:17.151]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:17.154]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:17.154]: Debug: METHOD :: GET
+[2026-04-18 09:41:17.154]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:17.154]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:17.154]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:17.155]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:17.155]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:17.155]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:17.155]: Debug:  [--] 
+[2026-04-18 09:41:17.155]: Debug: uuid -- 13337cbd959646cab7fd77f025978c79
+[2026-04-18 09:41:17.155]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:17.155]: Debug:  [--] 
+[2026-04-18 09:41:20.295]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:20.295]: Debug: METHOD :: GET
+[2026-04-18 09:41:20.295]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:20.295]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:20.295]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:20.295]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:20.295]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:20.295]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:20.295]: Debug:  [--] 
+[2026-04-18 09:41:20.295]: Debug: uuid -- cfa0bd7f8d6f4238a95406b1974ab8d8
+[2026-04-18 09:41:20.296]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:20.296]: Debug:  [--] 
+[2026-04-18 09:41:20.315]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:20.318]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:20.318]: Debug: METHOD :: GET
+[2026-04-18 09:41:20.318]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:20.318]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:20.319]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:20.319]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:20.319]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:20.319]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:20.319]: Debug:  [--] 
+[2026-04-18 09:41:20.319]: Debug: uuid -- faf2f826ec274f20943d954fcd6c3975
+[2026-04-18 09:41:20.319]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:20.319]: Debug:  [--] 
+[2026-04-18 09:41:23.447]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:23.447]: Debug: METHOD :: GET
+[2026-04-18 09:41:23.447]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:23.447]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:23.447]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:23.447]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:23.447]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:23.448]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:23.448]: Debug:  [--] 
+[2026-04-18 09:41:23.448]: Debug: uuid -- cf75548c54b64a369ad2f5b356adc32d
+[2026-04-18 09:41:23.448]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:23.448]: Debug:  [--] 
+[2026-04-18 09:41:23.468]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:23.471]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:23.471]: Debug: METHOD :: GET
+[2026-04-18 09:41:23.471]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:23.471]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:23.471]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:23.471]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:23.472]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:23.472]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:23.472]: Debug:  [--] 
+[2026-04-18 09:41:23.472]: Debug: uuid -- 155f652f8c724d2aa805828076ccf4d4
+[2026-04-18 09:41:23.472]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:23.472]: Debug:  [--] 
+[2026-04-18 09:41:26.619]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:26.619]: Debug: METHOD :: GET
+[2026-04-18 09:41:26.619]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:26.619]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:26.619]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:26.619]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:26.619]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:26.620]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:26.620]: Debug:  [--] 
+[2026-04-18 09:41:26.620]: Debug: uuid -- 9a4d506d20d34017bcb5f8584e167fc2
+[2026-04-18 09:41:26.620]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:26.620]: Debug:  [--] 
+[2026-04-18 09:41:26.638]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:26.641]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:26.641]: Debug: METHOD :: GET
+[2026-04-18 09:41:26.641]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:26.641]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:26.642]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:26.642]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:26.642]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:26.642]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:26.642]: Debug:  [--] 
+[2026-04-18 09:41:26.642]: Debug: uuid -- cca696d654004f4991f4ccdd6db15055
+[2026-04-18 09:41:26.642]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:26.642]: Debug:  [--] 
+[2026-04-18 09:41:29.787]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:29.787]: Debug: METHOD :: GET
+[2026-04-18 09:41:29.787]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:29.787]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:29.787]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:29.787]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:29.787]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:29.787]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:29.788]: Debug:  [--] 
+[2026-04-18 09:41:29.788]: Debug: uuid -- a3ed1ef0a3ef462d8a0b07fbeaacf2fe
+[2026-04-18 09:41:29.788]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:29.788]: Debug:  [--] 
+[2026-04-18 09:41:29.810]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:29.813]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:29.813]: Debug: METHOD :: GET
+[2026-04-18 09:41:29.813]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:29.813]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:29.813]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:29.813]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:29.813]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:29.813]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:29.813]: Debug:  [--] 
+[2026-04-18 09:41:29.813]: Debug: uuid -- fa2355bd26cf497baf108c498d4df7df
+[2026-04-18 09:41:29.813]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:29.814]: Debug:  [--] 
+[2026-04-18 09:41:32.955]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:32.955]: Debug: METHOD :: GET
+[2026-04-18 09:41:32.956]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:32.956]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:32.956]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:32.956]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:32.956]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:32.956]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:32.956]: Debug:  [--] 
+[2026-04-18 09:41:32.956]: Debug: uuid -- 03302a24d9844c708b120dcd7367b5b4
+[2026-04-18 09:41:32.956]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:32.956]: Debug:  [--] 
+[2026-04-18 09:41:32.977]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:32.979]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:32.980]: Debug: METHOD :: GET
+[2026-04-18 09:41:32.980]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:32.980]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:32.980]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:32.980]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:32.980]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:32.980]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:32.980]: Debug:  [--] 
+[2026-04-18 09:41:32.980]: Debug: uuid -- f81c018926a54269862de40464824d00
+[2026-04-18 09:41:32.980]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:32.981]: Debug:  [--] 
+[2026-04-18 09:41:33.007]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:33.010]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:33.010]: Debug: METHOD :: GET
+[2026-04-18 09:41:33.010]: Debug: DESTINATION :: /applist
+[2026-04-18 09:41:33.010]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:33.010]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:33.010]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:33.010]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:33.011]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:33.011]: Debug:  [--] 
+[2026-04-18 09:41:33.011]: Debug: uuid -- 9685b8a6c0994fcbab2e1d4f8d5496f3
+[2026-04-18 09:41:33.011]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:33.011]: Debug:  [--] 
+[2026-04-18 09:41:36.140]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:36.140]: Debug: METHOD :: GET
+[2026-04-18 09:41:36.140]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:36.140]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:36.140]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:36.140]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:36.140]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:36.141]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:36.141]: Debug:  [--] 
+[2026-04-18 09:41:36.141]: Debug: uuid -- 784c74d2b5644f03b0dcecb5afb285cc
+[2026-04-18 09:41:36.141]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:36.141]: Debug:  [--] 
+[2026-04-18 09:41:36.156]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:36.159]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:36.159]: Debug: METHOD :: GET
+[2026-04-18 09:41:36.159]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:36.159]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:36.159]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:36.159]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:36.159]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:36.160]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:36.160]: Debug:  [--] 
+[2026-04-18 09:41:36.160]: Debug: uuid -- 7e47d98470b44913a90a0390d93a8cc8
+[2026-04-18 09:41:36.160]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:36.160]: Debug:  [--] 
+[2026-04-18 09:41:39.288]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:39.288]: Debug: METHOD :: GET
+[2026-04-18 09:41:39.288]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:39.291]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:39.291]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:39.291]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:39.291]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:39.291]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:39.291]: Debug:  [--] 
+[2026-04-18 09:41:39.292]: Debug: uuid -- 10dbba439ac44325a5782e640686505f
+[2026-04-18 09:41:39.292]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:39.293]: Debug:  [--] 
+[2026-04-18 09:41:39.308]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:39.312]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:39.312]: Debug: METHOD :: GET
+[2026-04-18 09:41:39.312]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:39.312]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:39.312]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:39.312]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:39.312]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:39.312]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:39.313]: Debug:  [--] 
+[2026-04-18 09:41:39.313]: Debug: uuid -- f1a58bf0b6df478a9383b86616d5916c
+[2026-04-18 09:41:39.313]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:39.313]: Debug:  [--] 
+[2026-04-18 09:41:42.440]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:42.440]: Debug: METHOD :: GET
+[2026-04-18 09:41:42.441]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:42.441]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:42.441]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:42.441]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:42.441]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:42.441]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:42.441]: Debug:  [--] 
+[2026-04-18 09:41:42.441]: Debug: uuid -- 415a33ceffef4d8eb6b1dd911e81be36
+[2026-04-18 09:41:42.441]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:42.441]: Debug:  [--] 
+[2026-04-18 09:41:42.462]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:42.465]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:42.465]: Debug: METHOD :: GET
+[2026-04-18 09:41:42.465]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:42.465]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:42.465]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:42.466]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:42.466]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:42.466]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:42.466]: Debug:  [--] 
+[2026-04-18 09:41:42.466]: Debug: uuid -- d85641e68c27450b8eb97e0240a87b14
+[2026-04-18 09:41:42.466]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:42.466]: Debug:  [--] 
+[2026-04-18 09:41:45.590]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:45.591]: Debug: METHOD :: GET
+[2026-04-18 09:41:45.591]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:45.591]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:45.591]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:45.591]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:45.591]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:45.591]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:45.591]: Debug:  [--] 
+[2026-04-18 09:41:45.591]: Debug: uuid -- 913b3ae2b0f5419b959ee51367f133ed
+[2026-04-18 09:41:45.591]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:45.591]: Debug:  [--] 
+[2026-04-18 09:41:45.608]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:45.611]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:45.611]: Debug: METHOD :: GET
+[2026-04-18 09:41:45.611]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:45.611]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:45.611]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:45.612]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:45.612]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:45.612]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:45.612]: Debug:  [--] 
+[2026-04-18 09:41:45.612]: Debug: uuid -- 17b9d80d00d34349bf3ae420487ef2bf
+[2026-04-18 09:41:45.612]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:45.612]: Debug:  [--] 
+[2026-04-18 09:41:48.732]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:48.732]: Debug: METHOD :: GET
+[2026-04-18 09:41:48.732]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:48.732]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:48.732]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:48.732]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:48.732]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:48.732]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:48.733]: Debug:  [--] 
+[2026-04-18 09:41:48.733]: Debug: uuid -- 9ab8cff921b94c6fb703d355f5260e6b
+[2026-04-18 09:41:48.733]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:48.733]: Debug:  [--] 
+[2026-04-18 09:41:48.755]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:48.758]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:48.758]: Debug: METHOD :: GET
+[2026-04-18 09:41:48.758]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:48.758]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:48.758]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:48.758]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:48.758]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:48.758]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:48.759]: Debug:  [--] 
+[2026-04-18 09:41:48.759]: Debug: uuid -- 7bcb85d0866144dcae163d30ff281554
+[2026-04-18 09:41:48.759]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:48.759]: Debug:  [--] 
+[2026-04-18 09:41:51.904]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:51.904]: Debug: METHOD :: GET
+[2026-04-18 09:41:51.904]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:51.904]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:51.904]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:51.905]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:51.905]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:51.905]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:51.905]: Debug:  [--] 
+[2026-04-18 09:41:51.905]: Debug: uuid -- 6e3efed0bf7842728f501e7fd3649399
+[2026-04-18 09:41:51.905]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:51.905]: Debug:  [--] 
+[2026-04-18 09:41:51.922]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:51.925]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:51.925]: Debug: METHOD :: GET
+[2026-04-18 09:41:51.925]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:51.925]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:51.925]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:51.925]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:51.925]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:51.925]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:51.925]: Debug:  [--] 
+[2026-04-18 09:41:51.925]: Debug: uuid -- 0f322dc4fe3f4f158f819bb0a89a2029
+[2026-04-18 09:41:51.926]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:51.926]: Debug:  [--] 
+[2026-04-18 09:41:55.052]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:55.053]: Debug: METHOD :: GET
+[2026-04-18 09:41:55.053]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:55.053]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:55.053]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:55.053]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:55.053]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:55.053]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:55.053]: Debug:  [--] 
+[2026-04-18 09:41:55.053]: Debug: uuid -- ee8a862155d14340a77941422533e51d
+[2026-04-18 09:41:55.053]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:55.053]: Debug:  [--] 
+[2026-04-18 09:41:55.074]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:55.079]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:55.080]: Debug: METHOD :: GET
+[2026-04-18 09:41:55.080]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:55.080]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:55.080]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:55.080]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:55.080]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:55.080]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:55.080]: Debug:  [--] 
+[2026-04-18 09:41:55.080]: Debug: uuid -- 11399fbc64a74aad823cca286e3bd606
+[2026-04-18 09:41:55.080]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:55.080]: Debug:  [--] 
+[2026-04-18 09:41:58.221]: Debug: TUNNEL :: NONE
+[2026-04-18 09:41:58.221]: Debug: METHOD :: GET
+[2026-04-18 09:41:58.221]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:58.221]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:58.221]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:58.221]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:58.222]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:58.222]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:41:58.222]: Debug:  [--] 
+[2026-04-18 09:41:58.222]: Debug: uuid -- 925f8634fa9345e98427d5eb3726920a
+[2026-04-18 09:41:58.222]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:58.222]: Debug:  [--] 
+[2026-04-18 09:41:58.243]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:41:58.246]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:41:58.246]: Debug: METHOD :: GET
+[2026-04-18 09:41:58.246]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:41:58.246]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:41:58.246]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:41:58.246]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:41:58.247]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:41:58.247]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:41:58.247]: Debug:  [--] 
+[2026-04-18 09:41:58.247]: Debug: uuid -- 54e0b6d6bb9f42c98360382194239e50
+[2026-04-18 09:41:58.247]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:41:58.247]: Debug:  [--] 
+[2026-04-18 09:42:01.389]: Debug: TUNNEL :: NONE
+[2026-04-18 09:42:01.389]: Debug: METHOD :: GET
+[2026-04-18 09:42:01.389]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:42:01.389]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:42:01.389]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:42:01.389]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:42:01.389]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:42:01.389]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:42:01.390]: Debug:  [--] 
+[2026-04-18 09:42:01.390]: Debug: uuid -- c28692f0f40e42f5bb22433ece826638
+[2026-04-18 09:42:01.390]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:42:01.390]: Debug:  [--] 
+[2026-04-18 09:42:01.408]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:42:01.412]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:42:01.412]: Debug: METHOD :: GET
+[2026-04-18 09:42:01.412]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:42:01.412]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:42:01.412]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:42:01.412]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:42:01.412]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:42:01.412]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:42:01.412]: Debug:  [--] 
+[2026-04-18 09:42:01.412]: Debug: uuid -- a0ee2ae096d74fd3ba9fdb71943b9f2b
+[2026-04-18 09:42:01.413]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:42:01.413]: Debug:  [--] 
+[2026-04-18 09:42:04.533]: Debug: TUNNEL :: NONE
+[2026-04-18 09:42:04.534]: Debug: METHOD :: GET
+[2026-04-18 09:42:04.534]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:42:04.534]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:42:04.534]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:42:04.534]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:42:04.534]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:42:04.534]: Debug: Host -- 192.168.5.85:47989
+[2026-04-18 09:42:04.534]: Debug:  [--] 
+[2026-04-18 09:42:04.534]: Debug: uuid -- fa9c669b3b2b4a4aa0ba06078a56d39b
+[2026-04-18 09:42:04.534]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:42:04.534]: Debug:  [--] 
+[2026-04-18 09:42:04.550]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:42:04.553]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:42:04.553]: Debug: METHOD :: GET
+[2026-04-18 09:42:04.553]: Debug: DESTINATION :: /serverinfo
+[2026-04-18 09:42:04.553]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:42:04.553]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:42:04.553]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:42:04.554]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:42:04.554]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:42:04.554]: Debug:  [--] 
+[2026-04-18 09:42:04.554]: Debug: uuid -- b5a1aa0ba12a42fca15ef6b0e3c5fbfa
+[2026-04-18 09:42:04.554]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:42:04.554]: Debug:  [--] 
+[2026-04-18 09:42:04.579]: Debug: /CN=NVIDIA GameStream Client -- verified
+[2026-04-18 09:42:04.581]: Debug: TUNNEL :: HTTPS
+[2026-04-18 09:42:04.581]: Debug: METHOD :: GET
+[2026-04-18 09:42:04.582]: Debug: DESTINATION :: /applist
+[2026-04-18 09:42:04.582]: Debug: User-Agent -- Mozilla/5.0
+[2026-04-18 09:42:04.582]: Debug: Accept-Language -- en-US,*
+[2026-04-18 09:42:04.582]: Debug: Accept-Encoding -- gzip, deflate
+[2026-04-18 09:42:04.582]: Debug: Connection -- Keep-Alive
+[2026-04-18 09:42:04.582]: Debug: Host -- 192.168.5.85:47984
+[2026-04-18 09:42:04.582]: Debug:  [--] 
+[2026-04-18 09:42:04.582]: Debug: uuid -- 566e0177ef35435b8a82d4a7900b9ef9
+[2026-04-18 09:42:04.582]: Debug: uniqueid -- 0123456789ABCDEF
+[2026-04-18 09:42:04.582]: Debug:  [--] 
