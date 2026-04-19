@@ -13,3 +13,4 @@ Examples:
 `2026-04-18 13:15 [victus] Audio primer committed; current Sunshine audio_sink pinned to Realtek and virtual_sink pinned to Steam Streaming Speakers; host audio capture appears healthy but remote playback remains unresolved`
 `2026-04-18 13:35 [mac] Audio fix applied — macOS default output was set to BlackHole 2ch (Virtual); switched to Mac mini Speakers (Built-in); Moonlight now has a real output device to route audio to`
 `2026-04-18 13:38 [mac] Output switched to LG SMART WQHD (HDMI) — confirmed working audio through LG monitor`
+`2026-04-18 13:45 [resolved] Video and audio both confirmed fully working — Victus → Mac Mini via Sunshine/Moonlight. All issues from 2026-04-18 reinstall cycle resolved.`
